@@ -1,0 +1,15 @@
+
+/* Estilo de los enlaces del menú */
+.navbar .nav-link {
+    font-family: 'Georgia', serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: #e7b3b3;
+    letter-spacing: 0.5px;
+    transition: color 0.3s ease;
+}
+
+/* Cuando pasás el mouse por encima */
+.navbar .nav-link:hover {
+    color: #e5b2c8;
+}
